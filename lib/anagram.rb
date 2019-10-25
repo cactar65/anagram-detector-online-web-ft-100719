@@ -1,4 +1,10 @@
 # Your code goes here!
 
 
-class 
+class Anagram
+  attr_accessor :words
+  
+  
+  
+  
+end
