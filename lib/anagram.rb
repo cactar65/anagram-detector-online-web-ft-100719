@@ -8,5 +8,11 @@ class Anagram
     @words = word
   end
   
+  def match
+    
+    
+    
+  end
+  
   
 end
